@@ -1,0 +1,9 @@
+Building btcrcoin
+
+See doc/readme-qt.rst for instructions on building btcrcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of btcrcoin.
+
+See doc/build-*.txt for instructions on building btcrcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of btcrcoin.
